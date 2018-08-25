@@ -1,0 +1,23 @@
+html, body {
+	font-size: 10px; 
+	background-color: black;
+	background-size: cover;
+}
+
+.inner {
+	width: 20rem;
+	max-width: 100vw;
+	height: 2rem;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
