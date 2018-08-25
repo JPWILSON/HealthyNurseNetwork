@@ -1,23 +1,17 @@
 html, body {
-	font-size: 10px; 
-	background-color: black;
-	background-size: cover;
+	margin: 0;
+    padding: 0;
+    color: darkgrey;
+    background-color: #f3f3f3;
 }
 
-.inner {
-	width: 20rem;
-	max-width: 100vw;
-	height: 2rem;
+.container {
+	max-width: 960px;
+    width: 95%;
+    margin: auto;
 }
 
-.red {
-	background-color: red;
-}
+header {
+    background: #fff;
 
-.green {
-	background-color: green;
-}
-
-.blue {
-	background-color: blue;
 }
